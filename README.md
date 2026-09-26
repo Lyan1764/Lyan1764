@@ -55,22 +55,11 @@ def lyan_fernando():
 
 <div align="center">
 
-<svg width="500" height="130" viewBox="0 0 500 130" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="30" width="500" height="26" rx="6" fill="#211a2c"/>
-  <rect x="0" y="30" width="225" height="26" rx="6" fill="#a9fef7"/>
-  <rect x="225" y="30" width="175" height="26" fill="#f8d847"/>
-  <rect x="400" y="30" width="100" height="26" rx="6" fill="#fe428e"/>
-  <circle cx="15" cy="80" r="7" fill="#a9fef7"/>
-  <text x="30" y="85" fill="#e2e2e2" font-family="Segoe UI, sans-serif" font-size="15">C — 45%</text>
-  <circle cx="175" cy="80" r="7" fill="#f8d847"/>
-  <text x="190" y="85" fill="#e2e2e2" font-family="Segoe UI, sans-serif" font-size="15">JavaScript — 35%</text>
-  <circle cx="390" cy="80" r="7" fill="#fe428e"/>
-  <text x="405" y="85" fill="#e2e2e2" font-family="Segoe UI, sans-serif" font-size="15">Prolog — 20%</text>
-</svg>
+<img src="https://raw.githubusercontent.com/Lyan1764/Lyan1764/main/github-metrics.svg" alt="Linguagens mais usadas" />
 
 </div>
 
-<p align="center"><sub>Estimativa baseada nos repositórios públicos — ajuste as porcentagens acima quando quiser atualizar.</sub></p>
+<p align="center"><sub>Atualiza sozinho automaticamente, direto dos seus repositórios reais.</sub></p>
 
 <div align="center">
 

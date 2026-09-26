@@ -27,8 +27,6 @@ def lyan_fernando():
 - 🌳 Tenho um carinho especial por **árvores binárias** e **estruturas de dados**
 - 🧠 Sempre em busca da solução mais eficiente, não só da que funciona
 
-> Pode me chamar de **`otimizador_de_complexidade()`** — sempre pensando em como deixar o código mais rápido e mais elegante. 🚀
-
 ---
 
 ### 🛠️ Linguagens & Ferramentas

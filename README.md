@@ -60,11 +60,9 @@ def lyan_fernando():
 
 ---
 
-### 🏆 Troféus
-
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Lyan1764&theme=radical&no-frame=true&row=1&column=6)
+![Snake animation](https://raw.githubusercontent.com/Lyan1764/Lyan1764/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -72,14 +70,8 @@ def lyan_fernando():
 
 ### 📌 Repositórios em destaque
 
-<p align="left">
-  <a href="https://github.com/Lyan1764/projeto_grade">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lyan1764&repo=projeto_grade&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Lyan1764/Trabalho-de-Algoritmos-II">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lyan1764&repo=Trabalho-de-Algoritmos-II&theme=radical&hide_border=true" />
-  </a>
-</p>
+- 🎓 **[projeto_grade](https://github.com/Lyan1764/projeto_grade)** — ajuda alunos na matrícula das matérias (JavaScript)
+- 🧮 **[Trabalho-de-Algoritmos-II](https://github.com/Lyan1764/Trabalho-de-Algoritmos-II)** — solução de 6 questões utilizando a linguagem C
 
 ---
 

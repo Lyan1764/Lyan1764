@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lyan%20Fernando&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Estudante%20de%20Computa%C3%A7%C3%A3o%20%40%20UFPI&descAlignY=75&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Lyan%20Fernando&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o%20%40%20UFPI&descAlignY=75&descSize=18)
 
 </div>
 
@@ -10,7 +10,7 @@
 def lyan_fernando():
     return {
         "nome": "Lyan Fernando",
-        "cargo": "Estudante de Ciência da Computação - UFPI",
+        "cargo": "Estudante de Sistemas de Informação - UFPI (2024.2, 5° período)",
         "localizacao": "Piauí, Brasil",
         "apaixonado_por": [
             "algoritmos",
@@ -22,7 +22,7 @@ def lyan_fernando():
     }
 ```
 
-- 🎓 Estudante de **Ciência da Computação** na **UFPI**
+- 🎓 Estudante de **Sistemas de Informação** na **UFPI**, cursando o **5° período** (entrada 2024.2)
 - ⚡ Curto muito **algoritmos** e tudo que envolve **melhorar a performance/velocidade** de um código
 - 🌳 Tenho um carinho especial por **árvores binárias** e **estruturas de dados**
 - 🧠 Sempre em busca da solução mais eficiente, não só da que funciona
@@ -55,12 +55,6 @@ def lyan_fernando():
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=Lyan1764&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Lyan1764/Lyan1764/output/github-contribution-grid-snake.svg)
 
 </div>
 

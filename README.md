@@ -39,23 +39,16 @@ def lyan_fernando():
   <img src="https://img.shields.io/badge/Prolog-B10101?style=for-the-badge&logo=prolog&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
 </p>
 
----
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lyan1764&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" />
-
-</div>
-
-### 🧬 Linguagens mais usadas
+### 🧬 Estatistica e Linguagens mais usadas
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lyan1764/Lyan1764/main/github-metrics.svg" alt="Linguagens mais usadas" />
+<img src="https://raw.githubusercontent.com/Lyan1764/Lyan1764/main/github-metrics.svg?v=" alt="Linguagens mais usadas" />
 
 </div>
 

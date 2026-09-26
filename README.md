@@ -13,11 +13,11 @@ def lyan_fernando():
         "cargo": "Estudante de Sistemas de Informação - UFPI (2024.2, 5° período)",
         "localizacao": "Piauí, Brasil",
         "apaixonado_por": [
-            "algoritmos",
-            "otimizacao_de_velocidade_de_codigo",
-            "arvores_binarias",
-            "estruturas_de_dados"
-        ],
+            "Engenharia de Algoritmos"
+            "Otimização de Performance de Código"
+            "Estruturas de Dados Avançadas"
+            "Automacao de tarefas"
+          ],
         "assinatura": lambda entrada: "solucao_eficiente(entrada)"  # sempre buscando o caminho mais rápido
     }
 ```

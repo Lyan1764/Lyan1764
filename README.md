@@ -52,7 +52,7 @@ def lyan_fernando():
 
 </div>
 
-<p align="center"><sub>Atualiza sozinho automaticamente, direto dos seus repositórios reais.</sub></p>
+<p align="center"><sub>Atualizado automaticamente</sub></p>
 
 <div align="center">
 
